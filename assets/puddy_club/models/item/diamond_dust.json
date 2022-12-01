@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "custom:item/diamond_dust"
+        "layer0": "puddy_club:item/diamond_dust"
     }
 }

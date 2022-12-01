@@ -12,7 +12,7 @@
         "predicate": {
           "custom_model_data": 1
         },
-        "model": "custom:item/diamond_dust"
+        "model": "puddy_club:item/diamond_dust"
       }
 
     ]

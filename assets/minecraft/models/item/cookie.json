@@ -1,0 +1,20 @@
+{
+
+    "parent": "item/generated",
+    
+    "textures": {
+      "layer0": "item/cookie"
+    },
+    
+    "overrides": [
+
+      {
+        "predicate": {
+          "custom_model_data": 1
+        },
+        "model": "puddy_club:food/brigadeiro"
+      }
+
+    ]
+
+}

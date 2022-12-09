@@ -4,6 +4,10 @@ This is the official Resource Pack development repository for the Puddy Club Min
 
 <hr/>
 
+Server Page: https://puddy.club/minecraft
+
+<hr/>
+
 Brigadeiro Pixel Art made by JasminDreasond
 
 Pudding Pixel Art made by JasminDreasond

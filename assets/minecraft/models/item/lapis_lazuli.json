@@ -1,0 +1,62 @@
+{
+
+    "parent": "item/generated",
+    
+    "textures": {
+      "layer0": "item/lapis_lazuli"
+    },
+    
+    "overrides": [
+
+      {
+        "predicate": {
+          "custom_model_data": 1
+        },
+        "model": "puddy_club:crypto/btc"
+      },
+
+      {
+        "predicate": {
+          "custom_model_data": 2
+        },
+        "model": "puddy_club:crypto/bnb"
+      },
+
+      {
+        "predicate": {
+          "custom_model_data": 3
+        },
+        "model": "puddy_club:crypto/cake"
+      },
+
+      {
+        "predicate": {
+          "custom_model_data": 4
+        },
+        "model": "puddy_club:crypto/doge"
+      },
+
+      {
+        "predicate": {
+          "custom_model_data": 5
+        },
+        "model": "puddy_club:crypto/eth"
+      },
+
+      {
+        "predicate": {
+          "custom_model_data": 6
+        },
+        "model": "puddy_club:crypto/matic"
+      },
+
+      {
+        "predicate": {
+          "custom_model_data": 7
+        },
+        "model": "puddy_club:crypto/shib"
+      }
+
+    ]
+
+}

@@ -1,0 +1,17 @@
+{
+
+  "textures": {
+    "particle": "minecraft:block/oak_planks"
+  },
+    
+  "overrides": [
+
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "cfm:block/mail_box"
+    }
+
+  ]
+}

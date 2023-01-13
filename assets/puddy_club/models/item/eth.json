@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "puddy_club:crypto/btc"
+        "layer0": "puddy_club:item/eth"
     }
 }

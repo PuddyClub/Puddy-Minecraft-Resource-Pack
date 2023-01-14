@@ -1,0 +1,26 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/item_frame"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 777777
+            },
+            "model": "test:item/lucky_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 777778
+            },
+            "model": "test:item/ruby_ore"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 777779
+            },
+            "model": "test:item/ruby_block"
+        }
+    ]
+}

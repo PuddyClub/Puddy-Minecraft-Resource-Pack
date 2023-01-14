@@ -1,4 +1,6 @@
 {
+
+    "parent": "minecraft:block/chest",
     
     "textures": {
         "particle": "minecraft:block/oak_planks"
@@ -9,7 +11,7 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "cfm:block/mail_box"
+            "model": "cfm:item/mail_box"
         }
     ]
     

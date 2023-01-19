@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "puddy_club:item/matic"
+        "layer0": "puddy_club:item/food/brigadeiro"
     }
 }

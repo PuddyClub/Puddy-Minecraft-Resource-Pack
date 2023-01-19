@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "puddy_club:item/lucky_block_face",
-		"particle": "puddy_club:item/lucky_block_face"
+		"0": "puddy_club:item/block/lucky_block_face",
+		"particle": "puddy_club:item/block/lucky_block_face"
 	},
 	"elements": [
 		{

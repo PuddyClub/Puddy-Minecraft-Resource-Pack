@@ -12,7 +12,7 @@
         "predicate": {
           "custom_model_data": 1
         },
-        "model": "puddy_club:item/brigadeiro"
+        "model": "puddy_club:item/food/brigadeiro"
       }
 
     ]

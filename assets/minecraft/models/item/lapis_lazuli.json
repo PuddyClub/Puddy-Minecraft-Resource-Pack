@@ -12,49 +12,49 @@
         "predicate": {
           "custom_model_data": 1
         },
-        "model": "puddy_club:item/btc"
+        "model": "puddy_club:item/crypto/btc"
       },
 
       {
         "predicate": {
           "custom_model_data": 2
         },
-        "model": "puddy_club:item/bnb"
+        "model": "puddy_club:item/crypto/bnb"
       },
 
       {
         "predicate": {
           "custom_model_data": 3
         },
-        "model": "puddy_club:item/cake"
+        "model": "puddy_club:item/crypto/cake"
       },
 
       {
         "predicate": {
           "custom_model_data": 4
         },
-        "model": "puddy_club:item/doge"
+        "model": "puddy_club:item/crypto/doge"
       },
 
       {
         "predicate": {
           "custom_model_data": 5
         },
-        "model": "puddy_club:item/eth"
+        "model": "puddy_club:item/crypto/eth"
       },
 
       {
         "predicate": {
           "custom_model_data": 6
         },
-        "model": "puddy_club:item/matic"
+        "model": "puddy_club:item/crypto/matic"
       },
 
       {
         "predicate": {
           "custom_model_data": 7
         },
-        "model": "puddy_club:item/shib"
+        "model": "puddy_club:item/crypto/shib"
       }
 
     ]

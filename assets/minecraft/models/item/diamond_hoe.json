@@ -8,133 +8,133 @@
         "predicate": {
           "custom_model_data": 1
         },
-        "model": "item/skguns/pistol1"
+        "model": "skguns:item/skguns/pistol1"
       },
       {
         "predicate": {
           "custom_model_data": 2
         },
-        "model": "item/skguns/pistol2"
+        "model": "skguns:item/skguns/pistol2"
       },
       {
         "predicate": {
           "custom_model_data": 3
         },
-        "model": "item/skguns/pistol3"
+        "model": "skguns:item/skguns/pistol3"
       },
       {
         "predicate": {
           "custom_model_data": 11
         },
-        "model": "item/skguns/rifle1"
+        "model": "skguns:item/skguns/rifle1"
       },
       {
         "predicate": {
           "custom_model_data": 12
         },
-        "model": "item/skguns/rifle2"
+        "model": "skguns:item/skguns/rifle2"
       },
       {
         "predicate": {
           "custom_model_data": 13
         },
-        "model": "item/skguns/rifle3"
+        "model": "skguns:item/skguns/rifle3"
       },
       {
         "predicate": {
           "custom_model_data": 14
         },
-        "model": "item/skguns/rifle4"
+        "model": "skguns:item/skguns/rifle4"
       },
       {
         "predicate": {
           "custom_model_data": 15
         },
-        "model": "item/skguns/rifle5"
+        "model": "skguns:item/skguns/rifle5"
       },
       {
         "predicate": {
           "custom_model_data": 16
         },
-        "model": "item/skguns/rifle6"
+        "model": "skguns:item/skguns/rifle6"
       },
       {
         "predicate": {
           "custom_model_data": 21
         },
-        "model": "item/skguns/shotgun1"
+        "model": "skguns:item/skguns/shotgun1"
       },
       {
         "predicate": {
           "custom_model_data": 22
         },
-        "model": "item/skguns/shotgun2"
+        "model": "skguns:item/skguns/shotgun2"
       },
       {
         "predicate": {
           "custom_model_data": 23
         },
-        "model": "item/skguns/shotgun3"
+        "model": "skguns:item/skguns/shotgun3"
       },
       {
         "predicate": {
           "custom_model_data": 31
         },
-        "model": "item/skguns/sniper1"
+        "model": "skguns:item/skguns/sniper1"
       },
       {
         "predicate": {
           "custom_model_data": 32
         },
-        "model": "item/skguns/sniper2"
+        "model": "skguns:item/skguns/sniper2"
       },
       {
         "predicate": {
           "custom_model_data": 33
         },
-        "model": "item/skguns/sniper3"
+        "model": "skguns:item/skguns/sniper3"
       },
       {
         "predicate": {
           "custom_model_data": 41
         },
-        "model": "item/skguns/smg1"
+        "model": "skguns:item/skguns/smg1"
       },
       {
         "predicate": {
           "custom_model_data": 42
         },
-        "model": "item/skguns/smg2"
+        "model": "skguns:item/skguns/smg2"
       },
       {
         "predicate": {
           "custom_model_data": 43
         },
-        "model": "item/skguns/smg3"
+        "model": "skguns:item/skguns/smg3"
       },
       {
         "predicate": {
           "custom_model_data": 51
         },
-        "model": "item/skguns/launcher1"
+        "model": "skguns:item/skguns/launcher1"
       },
       {
         "predicate": {
           "custom_model_data": 52
         },
-        "model": "item/skguns/launcher2"
+        "model": "skguns:item/skguns/launcher2"
       },
       {
         "predicate": {
           "custom_model_data": 61
         },
-        "model": "item/skguns/machinegun1"
+        "model": "skguns:item/skguns/machinegun1"
       },
       {
         "predicate": {
           "custom_model_data": 100
         },
-        "model": "item/skguns/scope"
+        "model": "skguns:item/skguns/scope"
       }
 	      ]
 }

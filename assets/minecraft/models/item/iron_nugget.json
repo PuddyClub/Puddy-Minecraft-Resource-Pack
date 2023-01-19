@@ -8,43 +8,43 @@
         "predicate": {
           "custom_model_data": 1
         },
-        "model": "item/skgunsammo/pistolammo"
+        "model": "skguns:item/skgunsammo/pistolammo"
       },
       {
         "predicate": {
           "custom_model_data": 2
         },
-        "model": "item/skgunsammo/rifleammo"
+        "model": "skguns:item/skgunsammo/rifleammo"
       },
       {
         "predicate": {
           "custom_model_data": 3
         },
-        "model": "item/skgunsammo/sniperammo"
+        "model": "skguns:item/skgunsammo/sniperammo"
       },
       {
         "predicate": {
           "custom_model_data": 4
         },
-        "model": "item/skgunsammo/shotgunammo"
+        "model": "skguns:item/skgunsammo/shotgunammo"
       },
       {
         "predicate": {
           "custom_model_data": 5
         },
-        "model": "item/skgunsammo/smgammo"
+        "model": "skguns:item/skgunsammo/smgammo"
       },
       {
         "predicate": {
           "custom_model_data": 6
         },
-        "model": "item/skgunsammo/explosiveammo"
+        "model": "skguns:item/skgunsammo/explosiveammo"
       },
       {
         "predicate": {
           "custom_model_data": 7
         },
-        "model": "item/skgunsammo/machinegunammo"
+        "model": "skguns:item/skgunsammo/machinegunammo"
       }
 	      ]
 }

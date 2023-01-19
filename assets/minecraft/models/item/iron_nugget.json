@@ -1,0 +1,50 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_nugget"
+  },
+    "overrides": [
+      {
+        "predicate": {
+          "custom_model_data": 1
+        },
+        "model": "item/skgunsammo/pistolammo"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 2
+        },
+        "model": "item/skgunsammo/rifleammo"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 3
+        },
+        "model": "item/skgunsammo/sniperammo"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 4
+        },
+        "model": "item/skgunsammo/shotgunammo"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 5
+        },
+        "model": "item/skgunsammo/smgammo"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 6
+        },
+        "model": "item/skgunsammo/explosiveammo"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 7
+        },
+        "model": "item/skgunsammo/machinegunammo"
+      }
+	      ]
+}

@@ -1,1 +1,44 @@
-{}
+{
+    "loadmagin": {
+        "replace": false,
+        "sounds": [
+            "loadmagin"
+        ]
+    },
+    "loadmagout": {
+        "replace": false,
+        "sounds": [
+            "loadmagout"
+        ]
+    },
+    "loadclick": {
+        "replace": false,
+        "sounds": [
+            "loadclick"
+        ]
+    },
+    "m1garandping": {
+        "replace": false,
+        "sounds": [
+            "m1garandping"
+        ]
+    },
+    "loadbulletin": {
+        "replace": false,
+        "sounds": [
+            "loadbulletin"
+        ]
+    },
+    "loadslidein": {
+        "replace": false,
+        "sounds": [
+            "loadslidein"
+        ]
+    },
+    "loadslideout": {
+        "replace": false,
+        "sounds": [
+            "loadslideout"
+        ]
+    }
+}

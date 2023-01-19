@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "items/skguns/machinegun1",
-		"particle": "items/skguns/machinegun1"
+		"0": "skguns:item/skguns/machinegun1",
+		"particle": "skguns:item/skguns/machinegun1"
 	},
 	"elements": [
 		{

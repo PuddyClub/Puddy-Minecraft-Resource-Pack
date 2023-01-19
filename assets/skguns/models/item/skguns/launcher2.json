@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "items/skguns/launcher2",
-		"particle": "items/skguns/launcher2"
+		"0": "skguns:item/skguns/launcher2",
+		"particle": "skguns:item/skguns/launcher2"
 	},
 	"elements": [
 		{

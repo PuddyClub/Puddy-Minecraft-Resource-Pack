@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "items/skgunsammo/explosiveammo",
-		"particle": "items/skgunsammo/explosiveammo"
+		"0": "skguns:item/skgunsammo/explosiveammo",
+		"particle": "skguns:item/skgunsammo/explosiveammo"
 	},
 	"elements": [
 		{

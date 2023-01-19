@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "items/skgunsammo/sniperammo",
-		"particle": "items/skgunsammo/sniperammo"
+		"0": "skguns:item/skgunsammo/sniperammo",
+		"particle": "skguns:item/skgunsammo/sniperammo"
 	},
 	"elements": [
 		{

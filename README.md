@@ -16,6 +16,8 @@ Cryptos Pixel Art made by JasminDreasond
 
 <hr/>
 
+This resource pack uses content created by MrCrayfish
+
 This resource pack uses Skript Guns. All credits for skguns files belong to Pangw1n.
 
 https://www.spigotmc.org/resources/sk-guns-skript.104475/

@@ -126,6 +126,12 @@
       },
       {
         "predicate": {
+          "custom_model_data": 53
+        },
+        "model": "skguns:item/cgm/bazooka"
+      },
+      {
+        "predicate": {
           "custom_model_data": 61
         },
         "model": "skguns:item/skguns/machinegun1"

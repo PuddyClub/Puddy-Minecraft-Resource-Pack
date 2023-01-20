@@ -14,6 +14,8 @@ Pudding Pixel Art made by JasminDreasond
 
 Cryptos Pixel Art made by JasminDreasond
 
+Key Pixel Art made by JasminDreasond
+
 <hr/>
 
 This resource pack uses content created by MrCrayfish

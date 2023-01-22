@@ -16,6 +16,8 @@ Cryptos Pixel Art made by JasminDreasond
 
 Key Pixel Art made by JasminDreasond
 
+Tiny Timber Axe Pixel Art made by JasminDreasond
+
 <hr/>
 
 This resource pack uses content created by MrCrayfish

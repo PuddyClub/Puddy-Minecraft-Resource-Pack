@@ -1,335 +1,316 @@
 {
-    "loadmagin": {
-        "replace": false,
-        "sounds": [
-            "loadmagin"
-        ]
-    },
-    "loadmagout": {
-        "replace": false,
-        "sounds": [
-            "loadmagout"
-        ]
-    },
-    "loadclick": {
-        "replace": false,
-        "sounds": [
-            "loadclick"
-        ]
-    },
-    "m1garandping": {
-        "replace": false,
-        "sounds": [
-            "m1garandping"
-        ]
-    },
-    "loadbulletin": {
-        "replace": false,
-        "sounds": [
-            "loadbulletin"
-        ]
-    },
-    "loadslidein": {
-        "replace": false,
-        "sounds": [
-            "loadslidein"
-        ]
-    },
-    "loadslideout": {
-        "replace": false,
-        "sounds": [
-            "loadslideout"
-        ]
-    },
-
-    "item.shotgun.fire": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/shotgun/fire"
-           }
-        ]
-     },
-     
-     "item.shotgun.silenced_fire": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/shotgun/silenced_fire"
-           }
-        ]
-     },
-
-     "item.shotgun.enchanted_fire": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/shotgun/enchanted_fire"
-           }
-        ]
-     },
-     
-     "item.shotgun.cock": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/shotgun/cock"
-           }
-        ]
-     },
-
-     "item.rifle.fire": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/rifle/fire"
-           }
-        ]
-     },
-
-     "item.rifle.silenced_fire": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/rifle/silenced_fire"
-           }
-        ]
-     },
-
-     "item.rifle.enchanted_fire": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/rifle/enchanted_fire"
-           }
-        ]
-     },
-
-     "item.rifle.cock": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/rifle/cock"
-           }
-        ]
-     },
-
-     "item.pistol.fire": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/pistol/fire"
-           }
-        ]
-     },
-
-     "item.pistol.silenced_fire": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/pistol/silenced_fire"
-           }
-        ]
-     },
-
-     "item.pistol.enchanted_fire": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/pistol/enchanted_fire"
-           }
-        ]
-     },
-
-     "item.pistol.reload": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/pistol/reload"
-           }
-        ]
-     },
-
-     "item.pistol.cock": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/pistol/cock"
-           }
-        ]
-     },
-
-     "item.assault_rifle.fire": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/assault_rifle/fire"
-           }
-        ]
-     },
-
-     "item.assault_rifle.silenced_fire": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/assault_rifle/silenced_fire"
-           }
-        ]
-     },
-
-     "item.assault_rifle.enchanted_fire": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/assault_rifle/enchanted_fire"
-           }
-        ]
-     },
-
-     "item.assault_rifle.cock": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/assault_rifle/cock"
-           }
-        ]
-     },
-
-     "item.grenade_launcher.fire": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/grenade_launcher/fire"
-           }
-        ]
-     },
-
-     "item.bazooka.fire": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/bazooka/fire",
-              "stream": true
-           }
-        ]
-     },
-
-     "item.mini_gun.fire": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/mini_gun/fire"
-           }
-        ]
-     },
-
-     "item.mini_gun.enchanted_fire": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/mini_gun/enchanted_fire"
-           }
-        ]
-     },
-
-     "item.machine_pistol.fire": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/machine_pistol/fire"
-           }
-        ]
-     },
-
-     "item.machine_pistol.silenced_fire": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/machine_pistol/silenced_fire"
-           }
-        ]
-     },
-
-     "item.machine_pistol.enchanted_fire": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/machine_pistol/enchanted_fire"
-           }
-        ]
-     },
-
-     "item.heavy_rifle.fire": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/heavy_rifle/fire"
-           }
-        ]
-     },
-
-     "item.heavy_rifle.silenced_fire": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/heavy_rifle/silenced_fire"
-           }
-        ]
-     },
-
-     "item.heavy_rifle.enchanted_fire": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/heavy_rifle/enchanted_fire"
-           }
-        ]
-     },
-
-     "item.heavy_rifle.cock": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/heavy_rifle/cock"
-           }
-        ]
-     },
-
-     "item.grenade.pin": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:item/grenade/pin"
-           }
-        ]
-     },
-
-     "entity.stun_grenade.explosion": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:entity/stun_grenade/explosion"
-           }
-        ]
-     },
-
-     "entity.stun_grenade.ring": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:entity/stun_grenade/ring",
-              "stream": true
-           }
-        ]
-     },
-
-     "ui.weapon.attach": {
-        "replace": false,
-        "sounds": [
-           {
-              "name": "cgm:ui/weapon/attach"
-           }
-        ]
-     }
-
+   "item.skguns.loadmagin": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "skguns:item/loadmagin"
+         }
+      ]
+   },
+   "item.skguns.loadmagout": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "skguns:item/loadmagout"
+         }
+      ]
+   },
+   "item.skguns.loadclick": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "skguns:item/loadclick"
+         }
+      ]
+   },
+   "item.skguns.m1garandping": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "skguns:item/m1garandping"
+         }
+      ]
+   },
+   "item.skguns.loadbulletin": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "skguns:item/loadbulletin"
+         }
+      ]
+   },
+   "item.skguns.loadslidein": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "skguns:item/loadslidein"
+         }
+      ]
+   },
+   "item.skguns.loadslideout": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "skguns:item/loadslideout"
+         }
+      ]
+   },
+   "item.shotgun.fire": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/shotgun/fire"
+         }
+      ]
+   },
+   "item.shotgun.silenced_fire": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/shotgun/silenced_fire"
+         }
+      ]
+   },
+   "item.shotgun.enchanted_fire": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/shotgun/enchanted_fire"
+         }
+      ]
+   },
+   "item.shotgun.cock": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/shotgun/cock"
+         }
+      ]
+   },
+   "item.rifle.fire": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/rifle/fire"
+         }
+      ]
+   },
+   "item.rifle.silenced_fire": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/rifle/silenced_fire"
+         }
+      ]
+   },
+   "item.rifle.enchanted_fire": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/rifle/enchanted_fire"
+         }
+      ]
+   },
+   "item.rifle.cock": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/rifle/cock"
+         }
+      ]
+   },
+   "item.pistol.fire": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/pistol/fire"
+         }
+      ]
+   },
+   "item.pistol.silenced_fire": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/pistol/silenced_fire"
+         }
+      ]
+   },
+   "item.pistol.enchanted_fire": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/pistol/enchanted_fire"
+         }
+      ]
+   },
+   "item.pistol.reload": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/pistol/reload"
+         }
+      ]
+   },
+   "item.pistol.cock": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/pistol/cock"
+         }
+      ]
+   },
+   "item.assault_rifle.fire": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/assault_rifle/fire"
+         }
+      ]
+   },
+   "item.assault_rifle.silenced_fire": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/assault_rifle/silenced_fire"
+         }
+      ]
+   },
+   "item.assault_rifle.enchanted_fire": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/assault_rifle/enchanted_fire"
+         }
+      ]
+   },
+   "item.assault_rifle.cock": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/assault_rifle/cock"
+         }
+      ]
+   },
+   "item.grenade_launcher.fire": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/grenade_launcher/fire"
+         }
+      ]
+   },
+   "item.bazooka.fire": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/bazooka/fire",
+            "stream": true
+         }
+      ]
+   },
+   "item.mini_gun.fire": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/mini_gun/fire"
+         }
+      ]
+   },
+   "item.mini_gun.enchanted_fire": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/mini_gun/enchanted_fire"
+         }
+      ]
+   },
+   "item.machine_pistol.fire": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/machine_pistol/fire"
+         }
+      ]
+   },
+   "item.machine_pistol.silenced_fire": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/machine_pistol/silenced_fire"
+         }
+      ]
+   },
+   "item.machine_pistol.enchanted_fire": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/machine_pistol/enchanted_fire"
+         }
+      ]
+   },
+   "item.heavy_rifle.fire": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/heavy_rifle/fire"
+         }
+      ]
+   },
+   "item.heavy_rifle.silenced_fire": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/heavy_rifle/silenced_fire"
+         }
+      ]
+   },
+   "item.heavy_rifle.enchanted_fire": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/heavy_rifle/enchanted_fire"
+         }
+      ]
+   },
+   "item.heavy_rifle.cock": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/heavy_rifle/cock"
+         }
+      ]
+   },
+   "item.grenade.pin": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:item/grenade/pin"
+         }
+      ]
+   },
+   "entity.stun_grenade.explosion": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:entity/stun_grenade/explosion"
+         }
+      ]
+   },
+   "entity.stun_grenade.ring": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:entity/stun_grenade/ring",
+            "stream": true
+         }
+      ]
+   },
+   "ui.weapon.attach": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "cgm:ui/weapon/attach"
+         }
+      ]
+   }
 }

@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"1": "skguns:item/cgm/bazooka",
-		"particle": "skguns:item/cgm/bazooka"
+		"1": "cgm:items/bazooka",
+		"particle": "cgm:items/bazooka"
 	},
 	"display": {
 		"thirdperson_righthand": {

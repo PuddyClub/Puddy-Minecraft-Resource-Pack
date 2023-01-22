@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stone_axe"
+  },
+    
+  "overrides": [
+
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "puddy_club:item/timber/stone_axe"
+    }
+
+  ]
+}

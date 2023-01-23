@@ -2,21 +2,11 @@
 
 This is the official Resource Pack development repository for the Puddy Club Minecraft servers.
 
+Individual credits will normally be present within some folders.
+
 <hr/>
 
 Server Page: https://puddy.club/minecraft
-
-<hr/>
-
-Brigadeiro Pixel Art made by JasminDreasond
-
-Pudding Pixel Art made by JasminDreasond
-
-Cryptos Pixel Art made by JasminDreasond
-
-Key Pixel Art made by JasminDreasond
-
-Tiny Timber Axe Pixel Art made by JasminDreasond
 
 <hr/>
 

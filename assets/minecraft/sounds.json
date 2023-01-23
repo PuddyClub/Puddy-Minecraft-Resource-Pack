@@ -1,4 +1,12 @@
 {
+   "item.puddy_club.explosion": {
+      "replace": false,
+      "sounds": [
+         {
+            "name": "puddy_club:skguns/explosion"
+         }
+      ]
+   },
    "item.skguns.loadmagin": {
       "replace": false,
       "sounds": [

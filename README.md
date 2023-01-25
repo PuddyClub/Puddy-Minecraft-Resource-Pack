@@ -8,6 +8,10 @@ Individual credits will normally be present within some folders.
 
 Some GUI features have been redesigned using the Midnight GUI/HUD Retexture as a reference.
 
+Some GUI features is using this texture pack:
+
+https://www.planetminecraft.com/texture-pack/clear-gui-1-15-1-16-2/
+
 <hr/>
 
 Server Page: https://puddy.club/minecraft

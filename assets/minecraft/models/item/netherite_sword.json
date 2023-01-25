@@ -8,7 +8,7 @@
 
     {
       "predicate": {
-        "custom_model_data": 1
+        "custom_model_data": 9999999
       },
       "model": "puddy_club:item/slot"
     }

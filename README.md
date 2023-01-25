@@ -6,6 +6,10 @@ Individual credits will normally be present within some folders.
 
 <hr/>
 
+Some GUI features have been redesigned using the Midnight GUI/HUD Retexture as a reference.
+
+<hr/>
+
 Server Page: https://puddy.club/minecraft
 
 <hr/>

@@ -12,7 +12,7 @@ Some GUI features have been redesigned using the Midnight GUI/HUD Retexture as a
 
 Some GUI features is using this texture pack:
 
-https://www.planetminecraft.com/texture-pack/clear-gui-1-15-1-16-2/
+https://beta.curseforge.com/minecraft/texture-packs/darkmode
 
 <hr/>
 

@@ -38,6 +38,8 @@ https://beta.curseforge.com/minecraft/texture-packs/enchanted-weapons
 
 https://beta.curseforge.com/minecraft/texture-packs/enchanted-books
 
+https://github.com/NovaWostra/Pixel-Perfection-Chorus-Eddit
+
 ## Temp
 
 https://www.curseforge.com/minecraft/texture-packs/motschens-better-leaves

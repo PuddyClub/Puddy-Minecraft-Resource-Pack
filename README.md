@@ -52,6 +52,6 @@ https://www.spigotmc.org/resources/sk-guns-skript.104475/
 
 <hr/>
 
-## INfo
+## Info
 
 Slot Brightness - 2

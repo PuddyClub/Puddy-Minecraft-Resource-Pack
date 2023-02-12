@@ -36,6 +36,8 @@ https://beta.curseforge.com/minecraft/texture-packs/enchanted-tools
 
 https://beta.curseforge.com/minecraft/texture-packs/enchanted-weapons
 
+https://beta.curseforge.com/minecraft/texture-packs/enchanted-books
+
 ## Temp
 
 https://www.curseforge.com/minecraft/texture-packs/motschens-better-leaves

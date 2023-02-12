@@ -32,6 +32,10 @@ https://beta.curseforge.com/minecraft/texture-packs/round-trees-mc-vanilla-1-8-1
 
 https://beta.curseforge.com/minecraft/texture-packs/xalis-potions
 
+https://beta.curseforge.com/minecraft/texture-packs/enchanted-tools
+
+https://beta.curseforge.com/minecraft/texture-packs/enchanted-weapons
+
 ## Temp
 
 https://www.curseforge.com/minecraft/texture-packs/motschens-better-leaves

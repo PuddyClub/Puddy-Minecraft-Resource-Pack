@@ -14,6 +14,8 @@ Some GUI features is using this texture pack:
 
 https://beta.curseforge.com/minecraft/texture-packs/darkmode
 
+https://beta.curseforge.com/minecraft/texture-packs/onyx-sans
+
 <hr/>
 
 ## Server Page

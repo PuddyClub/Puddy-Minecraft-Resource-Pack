@@ -11,6 +11,48 @@
         "custom_model_data": 9999999
       },
       "model": "puddy_club:item/slot"
+    },
+
+    {
+      "predicate": {
+        "custom_model_data": 9999998
+      },
+      "model": "puddy_club:item/buttom/buy"
+    },
+
+    {
+      "predicate": {
+        "custom_model_data": 9999997
+      },
+      "model": "puddy_club:item/buttom/sell"
+    },
+
+    {
+      "predicate": {
+        "custom_model_data": 9999996
+      },
+      "model": "puddy_club:item/buttom/confirm"
+    },
+
+    {
+      "predicate": {
+        "custom_model_data": 9999995
+      },
+      "model": "puddy_club:item/buttom/cancel"
+    },
+
+    {
+      "predicate": {
+        "custom_model_data": 9999994
+      },
+      "model": "puddy_club:item/buttom/back"
+    },
+
+    {
+      "predicate": {
+        "custom_model_data": 9999993
+      },
+      "model": "puddy_club:item/buttom/menu"
     }
 
   ]

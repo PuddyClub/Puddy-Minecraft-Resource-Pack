@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "puddy_club:item/slot"
+        "layer0": "puddy_club:item/buttom/sell"
     }
 }
